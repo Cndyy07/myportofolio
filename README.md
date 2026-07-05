@@ -35,7 +35,7 @@ Website portofolio pribadi yang dibuat menggunakan HTML, CSS, dan JavaScript. We
 
 Lihat website melalui GitHub Pages:
 
-**https://cndyy07.github.io/portfolio/**
+**https://cndyy07.github.io/myportofolio/**
 
 ## 📄 Lisensi
 
